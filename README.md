@@ -1,2 +1,30 @@
-# detecao-alopecia-ml
-Classificação de risco de alopecia com base em texto usando aprendizado supervisionado.
+# 💇‍♀️ Projeto: Detecção de Alopecia com Machine Learning
+
+## 🧠 Descrição
+
+Este projeto tem como objetivo **classificar o risco de alopecia (queda de cabelo)** com base em textos fornecidos (ex.: relatos médicos ou de pacientes), utilizando **Machine Learning supervisionado** e técnicas de **Processamento de Linguagem Natural (NLP)**.
+
+Foi desenvolvido como projeto final do curso de Data Science Experience, combinando pré-processamento de texto, vetorização e algoritmos de classificação.
+
+---
+
+## 📊 Tecnologias e Bibliotecas Utilizadas
+
+- Python 3.x
+- Pandas
+- Scikit-learn
+- Matplotlib / Seaborn
+- NLP com TF-IDF
+- Jupyter Notebook
+
+---
+
+## 📁 Estrutura do Projeto
+
+| Arquivo | Descrição |
+|--------|-----------|
+| `projeto_final_alopecia.ipynb` | Notebook principal com todo o pipeline: limpeza, vetorização, treino, avaliação e resultados |
+| `README.md` | Documentação explicando o projeto e como executá-lo |
+| `requirements.txt` | (Opcional) Arquivo com as dependências do projeto |
+
+---
