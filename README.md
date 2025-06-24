@@ -19,12 +19,3 @@ Foi desenvolvido como projeto final do curso de Data Science Experience, combina
 
 ---
 
-## 📁 Estrutura do Projeto
-
-| Arquivo | Descrição |
-|--------|-----------|
-| `projeto_final_alopecia.ipynb` | Notebook principal com todo o pipeline: limpeza, vetorização, treino, avaliação e resultados |
-| `README.md` | Documentação explicando o projeto e como executá-lo |
-| `requirements.txt` | (Opcional) Arquivo com as dependências do projeto |
-
----
